@@ -1,0 +1,6 @@
+.mainContainer {
+    min-height: 650px;
+}
+.navbar-nav a {
+    padding-right: 20px;
+}

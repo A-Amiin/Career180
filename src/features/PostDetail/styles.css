@@ -1,0 +1,17 @@
+.ay7aga {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.post-detail {
+    width: 600px;
+    height: 400px;
+    background: #f2f2f2;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
